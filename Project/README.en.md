@@ -53,7 +53,7 @@ The project includes several base levels, a progressive unlocking system, enemie
 
 Planned path:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 

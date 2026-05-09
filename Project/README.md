@@ -53,7 +53,7 @@ El proyecto incluye varios niveles base, un sistema de desbloqueo progresivo, en
 
 Ruta prevista:
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
