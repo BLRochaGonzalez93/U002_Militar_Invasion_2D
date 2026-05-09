@@ -67,7 +67,7 @@ La lógica principal se divide en:
 
 ## Código recomendado para revisar
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs)
+[`PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs`](./PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs)
 
 ## Build
 

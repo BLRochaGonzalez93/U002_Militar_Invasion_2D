@@ -70,4 +70,4 @@ Playable base prototype.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U002_Militar_Invasion_2D)
+[View project repository](https://github.com/BLRochaGonzalez93/U002_Militar_Invasion_2D)

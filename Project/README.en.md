@@ -67,7 +67,7 @@ The main logic is divided into:
 
 ## Recommended code to review
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs)
+[`PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs`](./PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs)
 
 ## Build
 
