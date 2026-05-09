@@ -65,19 +65,15 @@ The main logic is divided into:
 - `GameManager` — game control, score, lives, levels, victory and defeat.
 - `WorldCreator` — scenario generation or level-structure setup.
 
-More information:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Recommended code to review
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/Assets/Scripts/GameManager.cs)
+[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_MilitarInvasion/Assets/Scripts/GameManager.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Download build U002-v1.0.0](https://github.com/BLRochaGonzalez93/U002_Militar_Invasion_2D/releases/tag/U002-v1.0.0)
 
